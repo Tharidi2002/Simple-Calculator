@@ -8,6 +8,8 @@
 <body>
 
 <h1>Simple Calculator</h1>
+<img width="1000" height="400" alt="Screenshot 2026-01-30 084920" src="https://github.com/user-attachments/assets/5bab3a5c-6665-43f2-b04e-1daf5f8f3102" />
+
 <p>A basic calculator built using HTML, CSS, and JavaScript. This calculator can perform four primary arithmetic operations: addition, subtraction, multiplication, and division.</p>
 
 <h2>Project Structure</h2>
@@ -25,8 +27,9 @@
     <li>Division (/)</li>
 </ul>
 
-<h2>Demo</h2>
-<p>The project is hosted and can be accessed here: <a href="https://simple-calculate-33a15.web.app" target="_blank">Simple Calculator</a></p>
+## Demo
+- Hosting Website - https://simple-calculate-33a15.web.app 
+- Video - https://youtu.be/JdwZj-WnNXE
 
 <h2>How to Use</h2>
 <ol>
